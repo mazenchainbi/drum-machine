@@ -71,3 +71,7 @@ An internet connection is required because the audio samples are loaded from the
 ## Audio Credits
 
 Samples are provided by freeCodeCamp and hosted at `https://cdn.freecodecamp.org/curriculum/drum/`.
+
+License
+
+This project is released under the MIT License
